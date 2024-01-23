@@ -5,7 +5,7 @@ This is a full conversion mod to turn the Razer Phone 2 into a fully functional 
 This mod includes LineageOS, Magisk, Dolby Atmos drivers, as well as various performance tweaks to support better software emulation. It's designed for use with the Razer Kishi V2, but will work with any other android controller.
 
 ### Prerequisites
-- LineageOS Aura build (20.0-20240119 as of today)
+- LineageOS Aura build (20.0-20240119 as of today) from https://download.lineageos.org/devices/aura/builds
 - LineagoOS Recovery (boot.img provided with Aura build)
 - ADB Platform Tools (Windows build provided above, Linux and Mac versions available on https://developer.android.com/tools/releases/platform-tools)
 - Magisk APK (available above, or at https://github.com/topjohnwu/Magisk/releases)
