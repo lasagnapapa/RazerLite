@@ -1,4 +1,4 @@
-# Razer Edge "Lite" (Razer Phone 2 handheld console conversion)
+### Razer Edge "Lite" (Razer Phone 2 handheld console conversion)
 
 This is a full conversion mod to turn the Razer Phone 2 into a fully functional handheld console
 
