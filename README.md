@@ -19,6 +19,7 @@ This mod includes LineageOS, Magisk, Dolby Atmos drivers, as well as various per
 - Once rebooted, launch Magisk and follow the installation instructions to get Magisk running properly
 - After Magisk is successfully installed, install the "DolbyAtmos-RazerPhone2-MagiskModule.zip" module
 - Next, run Logo+ from home screen, and allow root access using Magisk, and set it to permanent
+- Install GLTools for performance modifications
 - Finally, install Console Launcher (or whatever launcher you prefer), found at https://www.consolelauncher.app/
 
 ### Finishing touches
