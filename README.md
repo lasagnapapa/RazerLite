@@ -31,3 +31,6 @@ This mod includes LineageOS, Magisk, Dolby Atmos drivers, as well as various per
 - Flash the Nintendo Switch firmware (Found online, I cannot provide)
 - Navigate to the GPU driver manager, and install "Mesa Turnip Adreno Driver v23.2.0" (provided above)
 - Provide Switch roms (your own), and play your games! :)
+
+### Changelogs
+- Added GLTools and SmartPack apk files in update 1.2.1
