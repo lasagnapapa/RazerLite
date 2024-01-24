@@ -32,5 +32,9 @@ This mod includes LineageOS, Magisk, Dolby Atmos drivers, as well as various per
 - Navigate to the GPU driver manager, and install "Mesa Turnip Adreno Driver v23.2.0" (provided above)
 - Provide Switch roms (your own), and play your games! :)
 
+### Fallback (If any issues occure)
+- If you have any issues during installation, Razer provides factory images on their website here: https://developer.razer.com/razer-phone-dev-tools/factory-images/
+- For help on installing the original factory image, you can refer to their instructions here: https://developer.razer.com/razer-phone-dev-tools/general-instructions/
+
 ### Changelogs
 - Added GLTools and SmartPack apk files in update 1.2.1
