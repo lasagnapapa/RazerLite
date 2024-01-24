@@ -23,9 +23,7 @@ This mod includes LineageOS, Magisk, Dolby Atmos drivers, as well as various per
 
 ### Finishing touches
 - For maximum compatibility and build finish, get this case (not required) https://www.amazon.com/gp/product/B07JN6V3K5/
-- Install trimmed magnet strips on the inside of either wall of the case (top and bottom of device)
-- Remove inserts from Razer Kishi, and attatch magnet strips in their place (with trim for USB-C port)
-- Place Razer Phone 2 inside of case and insert it in to the Razer Kishi V2
+- Remove plastic inserts in Razer Kishi v2, and place phone and case in the Kishi. 
 
 ### Yuzu Setup (Nintendo Switch)
 - Install Yuzu (Nintendo Switch emulator)
