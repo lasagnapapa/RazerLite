@@ -26,6 +26,7 @@ This mod includes LineageOS, Magisk, Dolby Atmos drivers, as well as various per
 ### Stop here for the ultimate Razer Phone 2 (phone) experience
 - You can technically stop here if you just want to have a fully upgraded Razer Phone 2
 - Continue the guide below for the rest of the handheld conversion
+- ~ Instead of using ConsoleLauncher, I recommend using Nova Launcher, the default launcher the Razer Phone 2 shipped with. In Android 13, you can use the newer build of Nova Launcher (Nova 7), which is signifcantly improve from the version supported on the stock firmware. 
 
 ### Finishing touches
 - Finally, install Console Launcher (or whatever launcher you prefer), found at https://www.consolelauncher.app/
